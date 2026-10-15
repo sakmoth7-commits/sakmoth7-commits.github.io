@@ -1,0 +1,6 @@
+{
+  "name": "MerchantOps - Field Force & Task Management",
+  "description": "Field activity tracking, QR merchant scanner, Telegram bot alerts, Google Sheets sync, and analytics dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
